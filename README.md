@@ -286,14 +286,6 @@ Please follow [PEP8](https://peps.python.org/pep-0008/) and include docstrings f
 
 ---
 
-##  License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
-Model weights (`defog/sqlcoder-7b-2`) and dataset (`xlangai/spider`) are licensed under **CC BY-SA 4.0**.
-
----
-
 ##  Acknowledgements
 
 - [Defog AI](https://defog.ai/) — for training and releasing SQLCoder
